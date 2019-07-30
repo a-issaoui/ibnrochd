@@ -357,8 +357,8 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light.sticky-nav {
 .banner-w3ls-4,
 .banner-w3ls-5,
 .banner-agile {
-    min-height: 578px;
-    max-height:700px;
+    min-height: 100vh;
+    max-height:100vh;
 }
 
 .banner-w3ls-1 {
